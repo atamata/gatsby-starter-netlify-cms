@@ -5,12 +5,36 @@ image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Ταξιδιωτικός Οδηγός για τα Κύθηρα!
+  description: >-
+    Τα Κύθηρα είναι ένα μοναδικό νησί από πολλές πλευρές. Μέσα από τις σελίδες
+    του site μας προσπαθούμε να σας αποδείξουμε του λόγου το αληθές. Όπως και τα
+    Κύθηρα έτσι και η ιστοσελίδα μας έχει πολλές πτυχές και "κρυφές" ομορφιές
+    που καλείστε να "ανακαλύψετε".
+
+
+    Τα Χωριά των Κυθήρων, οι Παραλίες, τα Μουσεία, τα Μνημεία καθώς και τα
+    Αξιοθέτα, τα Σπήλαια και τα Κάστρα των Κυθήρων είναι μπροστά στην οθόνη σας.
+    Επιλέξτε από το μενού και ξεναγηθείτε εικονικά στα Κύθηρα για να ανακαλύψετε
+    ότι πιο όμορφο έχει να επιδείξει η φύση.
+
+
+    Μόλις σας πείσουμε να επισκεφτείτε το νησί της Αφροδίτης, στο site μας θα
+    βρείτε τα καλύτερα καταλύματα (Ξενοδοχεία - Βίλες & Ενοικιαζόμενα Δωμάτια)
+    στα Κύθηρα με ενημερωμένες φωτογραφίες, τιμές και προσφορές.
+
+
+    Δείτε τα δρομολόγια για τα Κύθηρα τόσο για τα πλοία όσο και για τα
+    αεροπλάνα.
+
+
+    Κλείστε τα εισιτήρια για τα Κύθηρα σας μέσα από το kythera.gr εύκολα και
+    γρήγορα.
+
+
+    Τα Κυθηρα είναι εδώ...
+
+    Ας ξεκινήσει το "Ταξίδι στα Κύθηρα"...
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +92,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
